@@ -764,7 +764,7 @@
     "class_name": "oven",
     "score": 0.6343,
     "coordinate_unit": "pixel",
-    "bbox_format": "xyxy",3c00.4
+    "bbox_format": "xyxy",
     "bbox_xyxy": [
       489.09,
       200.73,
