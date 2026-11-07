@@ -152,6 +152,6 @@ Kiểm tra trên GitHub trong thư mục `report/`:
 - [v] `day1_lab_outputs/visuals/classification_top5.png`
 - [v] `day1_lab_outputs/visuals/detection_predictions.png`
 - [v] `day1_lab_outputs/visuals/segmentation_prediction.png`
-- [ ] Ô validation cuối notebook báo `PASS`
-- [ ] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output
-- [ ] Đã nộp **link repository** trên LMS
+- [v] Ô validation cuối notebook báo `PASS`
+- [v] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output
+- [v] Đã nộp **link repository** trên LMS
